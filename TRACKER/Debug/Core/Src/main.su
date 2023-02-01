@@ -1,0 +1,13 @@
+main.c:140:5:main	8	static
+main.c:208:6:SystemClock_Config	72	static
+main.c:247:13:MX_TIM2_Init	32	static
+main.c:292:13:MX_USART1_UART_Init	8	static
+main.c:325:13:MX_USART2_UART_Init	8	static
+main.c:358:13:MX_USART3_UART_Init	8	static
+main.c:391:13:MX_GPIO_Init	40	static
+main.c:424:6:text_msn	24	static
+main.c:445:6:interpreta_gps	16	static
+main.c:523:6:interpreta	16	static
+main.c:578:6:HAL_UART_RxCpltCallback	24	static
+main.c:610:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:620:6:Error_Handler	4	static,ignoring_inline_asm
